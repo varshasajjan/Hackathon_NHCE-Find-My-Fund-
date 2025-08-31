@@ -14,7 +14,7 @@ Merged datasets using:fund_id to link mutual funds ↔ holdingsstock_id to link 
 To go beyond traditional string matching by using a Small Language Model (SLM) and semantic embeddings to understand user intent
 To leverage metadata (fund house, category, sector, AUM, holdings) to:
 To leverage metadata (fund house, category, sector, AUM, holdings) to:
-Improve result precision
+Improve result precision
 Disambiguate similar-sounding funds  Generate a description for the GitHub README.md
 
 

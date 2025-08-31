@@ -24,7 +24,7 @@ Disambiguate similar-sounding funds  Generate a description for the GitHub READM
 
 This project provides a *lightweight, intelligent search system* that enables users to accurately find and identify Indian mutual funds, stocks, and ETFs—even from vague or imperfect queries. Unlike traditional string-matching search, this system leverages *semantic embeddings* and a *Small Language Model (SLM)* to understand user intent and context, delivering highly relevant results and resolving ambiguity across similar-sounding fund or stock names.
 
-==*Key Features *==
+   Key Features 
 
 - *Semantic Search*: Uses advanced language models to interpret and map fuzzy or partial user queries to the most relevant financial entities.
 - *Rich Metadata Utilization*: Improves search precision by leveraging comprehensive metadata, such as:
@@ -54,9 +54,9 @@ The system ingests and processes three primary data sources in JSON format:
 
 ## Intelligent Search Capabilities
 
-- *Natural Language Querying*: Users can search for funds, stocks, or ETFs using natural, conversational, or incomplete queries.
-- *Contextual Relevance*: Results are ranked using semantic similarity and enhanced with metadata filtering (sector focus, AUM range, fund house, etc.).
-- *Beyond Exact Match*: Captures and understands user intent, even with spelling errors, abbreviations, or partial fund/stock names.
+- Natural Language Querying: Users can search for funds, stocks, or ETFs using natural, conversational, or incomplete queries.
+- Contextual Relevance: Results are ranked using semantic similarity and enhanced with metadata filtering (sector focus, AUM range, fund house, etc.).
+- Beyond Exact Match: Captures and understands user intent, even with spelling errors, abbreviations, or partial fund/stock names.
 
 ## Example Use Cases
 

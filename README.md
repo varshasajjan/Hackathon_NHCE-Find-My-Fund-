@@ -10,7 +10,7 @@ Fund Holdings Data (fund_holdings.json)
 Stock Metadata (stocks.json)
 Converted JSON → DataFrames using pandas.read_json() and json_normalize()
 Ensured data structure is flat and accessible for modeling
-Merged datasets using:fund_id to link mutual funds ↔ holdingsstock_id to link holdings ↔ stock metadataCreated a consolidated view of each fund with its name, sector, category, holdings, AUM, and other metadata  To build a lightweight, intelligent search system that can accurately map a user's vague or fuzzy query to the correct Indian mutual fund, stock, or ETF.
+Merged datasets using:fund_id to link mutual funds ↔ holdingsstock_id to link holdings ↔ stock metadata Created a consolidated view of each fund with its name, sector, category, holdings, AUM, and other metadata To build a lightweight, intelligent search system that can accurately map a user's vague or fuzzy query to the correct Indian mutual fund, stock, or ETF.
 To go beyond traditional string matching by using a Small Language Model (SLM) and semantic embeddings to understand user intent
 To leverage metadata (fund house, category, sector, AUM, holdings) to:
 To leverage metadata (fund house, category, sector, AUM, holdings) to:

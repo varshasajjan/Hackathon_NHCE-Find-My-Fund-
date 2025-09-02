@@ -65,7 +65,7 @@ The system ingests and processes three primary data sources in JSON format:
 - "Which mutual fund holds most Reliance shares?"
 - "Top sectoral mutual funds with AUM > ₹1000 Cr"
 
-## Quick Start
+## Summarize
 
 1. Place your JSON datasets in the /data directory.
 2. Run the data loading and normalization script to generate the consolidated dataset.
